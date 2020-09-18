@@ -1,5 +1,5 @@
 from tkinter import Tk, Frame, Label, Button, StringVar
-from interfaz.Operaciones_calculadora import Evento
+from .Operaciones_calculadora import Evento
 
 class Calculadora(Frame):
 
