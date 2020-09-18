@@ -1,0 +1,4 @@
+Hi!
+Esta línea ha sido incluida desde el exterior
+hoy miércoles.
+Fin....
